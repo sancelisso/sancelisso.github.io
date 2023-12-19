@@ -16,7 +16,7 @@ timezone: Africa/Porto
 
 title: Sancelisso blog # the main title
 
-tagline: Blog focus on cybersecurity stuffs # it will display as the sub-title
+tagline: Blog focusing on cybersecurity stuffs # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -74,7 +74,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: 'https://pbs.twimg.com/profile_images/1443297032630906884/5DAVcgmy_400x400.jpg'
+avatar: 'https://avatars.githubusercontent.com/u/28492106?s=400&u=d5a559113427bfe6102916a099b0744892466668&v=4'
 
 # boolean type, the global switch for TOC in posts.
 toc: true
