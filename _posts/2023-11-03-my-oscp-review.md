@@ -56,6 +56,7 @@ For this, i relied on TJ NULL list again but there are some boxes which are remo
 
 I was proud to do this since it saves me a bunch of time during the exam 😃 I got similar attack vector, so copy-pasting commands was the fastest way 😆
 
+![](/assets/img/OSCP-review/relax.webp)
 ## Time management
 
  Since i am working as Cybersecurity analyst, i managed to do my daily tasks and then focus on my training. In fact, i can spend approximately 6 or 8 hours per day on my training: It depends on my availability. On the week-end, i enjoy myself by taking rest and entertaining  or continuing my training if weekly training goal was not achieved.
@@ -71,15 +72,21 @@ I even got some days of holiday in order to relax and fresh my mind. During thos
 
 My exam should start at 7pm on Wednesday but i got some technical issues and alerted Offsec support. The issue was fixed around 8pm.
 
+My plan was to start with the Active Directory since it gives a lot of points (40) and then move on standalones machines.
+
 I started by the Active Directory set. It was a little bit straight forward. Look closely at all your findings is the key.
 
 I was taking notes and screenshots as well as i am progressing
 
 I successfully tackled my first standalone machine since it was like a piece of cake.
 
+![](/assets/img/OSCP-review/got-it.webp)
+
 So i was securing 60 points at this step and logically i got the necessary to pass since i was eligible to 10 points bonus but my goal is to earn the 70 points in my own since Offsec could mess up to attribute you the bonus point accordingly and send you fail mail later (story read from some OSCP review)
 
 Now my next machine is easy like the previous but i got stuck in rabbit hole for few hours 😨. After some rest, i got other idea and was blind to go further. I took rest and took rest again and boom i follow like a baby all the step of my exploit and got the initial access. It just got paid trying harder process 😂😜
+
+![](/assets/img/OSCP-review/joy.webp)
 
 I was on cloud nine as ever. I would like to try pivoting to perform privilege escalation for the next step but it fails. Since i had achieved my goal, i gave up on that.
 
@@ -92,11 +99,15 @@ I started writing the report but i felt uncomfortable with the presence of the p
 ## Report writing
 After coming back from hospital, i took rest and ate. Then i jumped on report writing. I decided to use Offsec template for the report. It was a little bit easy since i took note properly of my findings. The extra only things at this step is to suit my findings to known CWEs (Common Weakness Enumeration) and describe them accordingly. Report writing looks easy but it took me a bunch of time (in total 10 or 12 hours). I finished the following day (Friday) around 4 pm after fixing some formatting issues within the document.
 
-After the submission, i went outside and ate my favorite meal to award myself of all of these efforts 😎
+After the submission, i went outside and ate my favorite meal to award myself of all these efforts 😎
+
+![](/assets/img/OSCP-review/enjoy-meal.webp)
 
 Waiting for the exam result is another hardest time. I was afraid, just thinking if i put all necessary information in my report. I was checking my mail box every time !
 
-Finally, i got the confirmation that i passed on the Offsec platform and few minutes later i got the expected mail 🔥
+Finally, i got the confirmation that i passed on the Offsec platform and few minutes later i got the expected mail and claimed my badge 🔥
+
+![](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/77023233)
 
 ## Useful links
 
