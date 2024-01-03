@@ -77,6 +77,6 @@ You can submit your own built vulnerable machine or challenge
 
 There is a great community behind the platform. You can join them at [HackMyVm Discord](https://discord.gg/nz4UvVHkwg)
 
-##Conclusion
+## Conclusion
 
 Basically, HackMyVm is a great Platform for you to train yourself about ethical hacking and more. If you were a fan of Vulnhub, i bet you will adopt this one quickly. Enjoy it !
