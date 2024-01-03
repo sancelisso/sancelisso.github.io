@@ -13,7 +13,7 @@ Hello everyone. Today i have the pleasure to shed a light on a new platform that
 
 ## HackMyVm purpose
 
-HackMyVm is a platform that hosts a bunch of vulnerable machine downloadable by anyone and allows you submit the proof of hacking (that's called flag). It is a Capture The Flag (CTF) platform like a Vulnhub which is not currently updated. HackMyVm is the new vulnhub with a lot new features.
+HackMyVm is a platform that hosts a bunch of vulnerable machine downloadable by anyone and allows you submit the proof of hacking (that's called flag). It is a Capture The Flag (CTF) platform like a Vulnhub which is not currently updated. HackMyVm is the new vulnhub with a lot of new features.
 
 
 ## HackMyVm features
@@ -36,7 +36,7 @@ You have the honor to see the latest logs about machines that are currently been
 
 Trophies here are like a badge which you can earn by completing some activities or progressing on hacking machines or solving challenges.
 
-On my side, i have just earned two trophies: Starter and Maker
+On my side, i have just earned two trophies: Starter, Maker and Preacher
 
 ### Leaderboard
 
