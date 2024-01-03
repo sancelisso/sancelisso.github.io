@@ -36,7 +36,7 @@ You have the honor to see the latest logs about machines that are currently been
 
 Trophies here are like a badge which you can earn by completing some activities or progressing on hacking machines or solving challenges.
 
-On my side, i have just earned two trophies: Starter, Maker and Preacher
+On my side, i have just earned three trophies: Starter, Maker and Preacher
 
 ### Leaderboard
 
