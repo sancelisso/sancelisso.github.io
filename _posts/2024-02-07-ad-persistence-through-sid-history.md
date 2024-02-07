@@ -2,6 +2,11 @@
 layout: post
 title: AD Persistence through SID History
 date: 2024-02-07 15:48 +0000
+categories:
+tags:
+- hacking
+- Active Directory
+- cybersecurity
 ---
 Hello guys. I have learnt a new technic about persistence when you get Domain admin level right in Active Directory set and have the pleasure to write it down here.
 
