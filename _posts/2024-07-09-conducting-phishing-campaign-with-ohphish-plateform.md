@@ -70,13 +70,51 @@ Here we are going to configure all neccessary to make our campaign ready
 ![Filling the form](/assets/img/Ohphish/Filling-form.png)
 
 My screenshot doesn't contain all the field to fill but basically, you need to fill 
-    - Campaign Name : the name of your campaign
-    - Campaign Type : Email
-    -Type : Entice to click
-      
-    the second option (credentials capturing) won't be usable since we are using free trial version
-    -Email Template: choose Existing template then
-Somes fields are automatically filled when you choose your template and you're able to define users concerned by this campaign 
+
+  * Campaign Name : the name of your campaign
+
+  * Campaign Type : Email
+
+  * Type : Entice to click
+
+the second option (credentials capturing) won't be usable since we are using free trial version
+
+  * Email Template: choose Existing template then select the template suited for your case.
+
+Somes fields are automatically filled when you choose your template and you're able to define users concerned by this campaign and even the content of the email.
+On the same page, you can schedule the campaign for later or launch immediatly after you've finished.
+
+After launching, you will have details to whiltelist on your target domain
+
+![Whitelisting details](/assets/img/Ohphish/Whitelisting.png)
+
+Then click on Done if the configuration is done on your target domain and then you will be prompted to confirm launching campaing
+
+Basically, the whitelisting consist of setting these parameters on the target domain 
+
+Mail Server Domain: mail.office-mailer.com
+
+Mail Server IP Address: 52.15.139.151
+
+Domain: authemailer.info
+
+Landing Page URL: *authemailer.info
+
+## Campaign history
+Once the campaign is launched you can see the progression and insights about the number of click and others stuffs on *Campaign* Menu.
+
+You can know more about OhPhish by follwing the links below.
+
+Thanks for your attention and hope this plateform will be useful and be like a life saver for you
+
+## Useful Resources
+
+- User manual : [https://api.ohphish.com/sample/ohphish-user-manual.pdf](https://api.ohphish.com/sample/ohphish-user-manual.pdf)
+
+- Whitelisting on O365 : [https://api.ohphish.com/sample/Microsoft.pdf](https://api.ohphish.com/sample/Microsoft.pdf)
+
+- Whitelisting on Gmail : [https://api.ohphish.com/sample/Gmail_Whitelisting.pdf](https://api.ohphish.com/sample/Gmail_Whitelisting.pdf) 
+ 
 
 
 
