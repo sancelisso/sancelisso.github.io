@@ -9,7 +9,7 @@ tags:
 - user awareness
 ---
 Hello guys, it's been a while here.
-I had the opportunity to conduct some phishing campaigns in the past with an awesome platform that i want to share with : It's called **OhPhish**
+I had the opportunity to conduct some phishing campaigns in the past with an awesome platform that i want to share it with you : It's called **OhPhish**
 
 ## What to know about OhPhish ?
 **Ohphish** is a cyber security platform, owned by EC Council, that works to improve the awareness of the users and promote good practices in relation to email security and other internet use by the staff. 
