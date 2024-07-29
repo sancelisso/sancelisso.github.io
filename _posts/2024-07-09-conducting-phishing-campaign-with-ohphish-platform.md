@@ -28,7 +28,7 @@ I had the opportunity to conduct some phishing campaigns in the past with an awe
 
 ## Ohphish Vs Gophish
 
-Yeah i know you are used to using Gophish (even myslef before discovering Ohphish) but it requires more resources in real phishing engagement: I mean buying VPS and domain name. However, Ohphish makes life easier by saving you from buying all those stuffs. All you need is just whitelisting a specific IP address at your client's mail server side.
+Yeah i know you are used to using Gophish (even myself before discovering Ohphish) but it requires more resources in real phishing engagement: I mean buying VPS and domain name. However, Ohphish makes life easier by saving you from buying all those stuffs. All you need is just whitelisting a specific IP address at your client's mail server side.
 Let's see clear about that in the following section.
 
 ## Setup Ohphish
