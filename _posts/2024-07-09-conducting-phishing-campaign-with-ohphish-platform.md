@@ -2,7 +2,9 @@
 layout: post
 title: Conducting Phishing campaign with OhPhish Platform
 date: 2024-07-09 21:13 +0000
-categories:
+categories: 
+- technical insights
+- tools
 tags:
 - cybersecurity
 - phishing

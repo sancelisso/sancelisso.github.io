@@ -2,7 +2,8 @@
 layout: post
 title: AD Persistence through SID History
 date: 2024-02-07 15:48 +0000
-categories:
+categories: 
+- technical insights
 tags:
 - hacking
 - Active Directory
@@ -41,7 +42,6 @@ I would like to highlight that **Historical SIDs cannot be used to add users to 
 ![SID History explained](/assets/img/AD-Persistence-SIDHistory/SIDHistory-explained!.jpg)
 *SID History explained*
 
-Now, enough history, let’s see how to perform this kind of persistence as an attacker
 Now, enough history, let’s see how to perform this kind of persistence as an attacker
 
 ## SID History Injection
