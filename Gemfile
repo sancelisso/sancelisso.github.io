@@ -24,3 +24,4 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 #jekyll compose
 gem 'jekyll-compose', group: [:jekyll_plugins]
+#gem "json", "2.0.2"
