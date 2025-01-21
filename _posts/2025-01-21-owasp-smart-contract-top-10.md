@@ -28,7 +28,7 @@ It is worth mentionning that the most recent publication of this Top 10 was rele
 
 From the picture above you can notice there are some weaknesses have been removed, while others have been added and some have been moved up or moved down.
 
-# The TOP 10
+## The TOP 10
 
 For the new release, the top 10 is elaborated like below:
 
