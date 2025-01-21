@@ -27,3 +27,4 @@ gem 'jekyll-compose', group: [:jekyll_plugins]
 #gem "json", "2.0.2"
 gem 'logger'
 gem 'csv'
+gem 'base64'
