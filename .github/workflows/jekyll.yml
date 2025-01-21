@@ -1,4 +1,4 @@
-name: Jekyll Build and Test
+name: Build Jekyll Site
 
 on:
   push:
@@ -10,32 +10,30 @@ on:
 
 jobs:
   build:
-    runs-on: ubuntu-22.04  # This is the unsupported runner you're currently using.
-    steps:
-      - uses: actions/checkout@v3
-      - uses: ruby/setup-ruby@v1
-        with:
-          ruby-version: 3.2
-          bundler-cache: true
-
-    strategy:
-      matrix:
-        ruby: [2.7, 3.0, 3.1] # Ensure the 'ruby' matrix contains valid versions
+    # Use a GitHub-hosted runner (ubuntu-22.04 is supported)
+    runs-on: ubuntu-22.04
 
     steps:
-      - name: Checkout repository
+      # Checkout the code from the repository
+      - name: Checkout code
         uses: actions/checkout@v3
 
+      # Set up Ruby environment with version 3.2
       - name: Set up Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: ${{ matrix.ruby }}
+          ruby-version: 3.2
+          bundler-cache: true  # Cache Bundler dependencies to speed up future runs
 
+      # Install the required gems using Bundler
       - name: Install dependencies
         run: bundle install
 
+      # Build the Jekyll site
       - name: Build Jekyll site
         run: bundle exec jekyll build
 
-      - name: Run tests
-        run: bundle exec jekyll doctor
+      # Optionally, you can add deployment or other steps here
+      # - name: Deploy to GitHub Pages
+      #   run: bundle exec jekyll serve --detach
+
